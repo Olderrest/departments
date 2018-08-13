@@ -1,0 +1,43 @@
+th {
+    cursor: pointer;
+}
+
+th:hover {
+    background: yellow;
+}
+
+#department-table {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+#employees-list {
+    text-align: center;
+    width: 1200px;
+    margin: auto;
+}
+
+#add {
+    text-align: left;
+    width: 300px;
+    margin: auto;
+}
+
+#update_employee {
+    text-align: left;
+    width: 300px;
+    margin: auto;
+}
+
+#btn{
+    text-align: left;
+    width: 400px;
+    height: 50px;
+}
+
+#add_depart{
+    text-align: left;
+    width: 300px;
+    margin: auto;
+}
